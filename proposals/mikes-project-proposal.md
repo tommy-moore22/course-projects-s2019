@@ -12,6 +12,8 @@ The association rules are learned from a dataset, and in previous research, I co
 
 Without fully knowing how difficult any of this will be, if I am able to complete all of these tasks within a reasonable amount of time then I will set a stretch goal of using some sort of library (e.g. `PyGraphviz`) to generate visual functional representations. Because this is not a necessary part of the research but a potentially helpful tool for creating visuals, it is not crucial that it be completed.
 
+This software will be used by myself and my fellow researchers who are working on automating functional modeling. 
+
 In summary, I propose that I will write software that will:
 
 1. Query a design repository in a PostgreSQL database within Python and store the results into Python data structures
